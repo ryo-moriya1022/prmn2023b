@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4591a2db-3cfa-4bb4-829b-46c6dd57286f" name="変更" comment="" />
+    <list default="true" id="4591a2db-3cfa-4bb4-829b-46c6dd57286f" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/../../prmn2023b/src/main/java/PreExem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_prac/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_prac/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_prac/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_prac/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_prac/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_prac/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_prac/src/test/java/jp/ac/chitose/db_prac/AppTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2XX1fsK2rmhZiZJoXlpnBAkKJvf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,12 +35,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/misan/OneDrive/ドキュメント/プロメンサポート用資料/prmn2023b/pom.xml",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/eva10/OneDrive/デスクトップ/prmn2023/db_prac/db_prac/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
@@ -44,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698760719022</updated>
       <workItem from="1698760720031" duration="5387000" />
+      <workItem from="1699857362233" duration="581000" />
     </task>
     <servers />
   </component>
